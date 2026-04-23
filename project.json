@@ -1,0 +1,27 @@
+{
+  "overview": "Professional business website for Krishna Plastic, a retail plastic products store in Takrohi Market, Lucknow. Features a vibrant Indian retail aesthetic with hero banner, product categories, about us, gallery, and contact sections.",
+  "features": [
+    "Hero banner with CTA buttons (Call Now, View Products, Visit Store)",
+    "8 product category cards with responsive grid layout",
+    "About Us section highlighting customer satisfaction and quality",
+    "Why Choose Us section with 5 key differentiators",
+    "Product gallery showcase",
+    "Contact section with Call and WhatsApp buttons and map placeholder",
+    "Sticky navigation with mobile hamburger menu",
+    "Smooth scroll animations",
+    "Fully responsive mobile-first design",
+    "SEO-friendly structure with professional typography"
+  ],
+  "category": "showcase",
+  "tags": [
+    "business",
+    "retail",
+    "plastic-products",
+    "india",
+    "lucknow",
+    "local-business",
+    "showcase",
+    "landing-page"
+  ],
+  "last_updated": "2026-04-23T07:12:47.590Z"
+}
